@@ -1,0 +1,7 @@
+Pro
+    c, c++, java
+    bash/shell scripting
+    vim, eclipse
+basic
+    python, web2py
+
