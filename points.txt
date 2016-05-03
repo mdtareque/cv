@@ -1,0 +1,10 @@
+
+nptel IITK 'Introduction to C Programming' Course completion - 100% result. Link nptel.ac.in/noc Nov-14
+Oracle Java Certified Programmer
+OSDG (Open Source Developer Group - IIIT Hyderabad) hackathon finalist
+project euler 50+ solved
+links to pintos project, pythonanywhere web2py
+difflet (web2py project)
+links to Stackoverflow profile, coding contest-websites handles
+Project under Prof. Govindarajulu Sem1 - dec-15 https://github.com/mdtareque/concurrentDataStructures
+
