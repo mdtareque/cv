@@ -14,3 +14,11 @@ OSDG (Open Source Developer Group - IIIT Hyderabad) hackathon finalist
 
 in short resume
 operating system shell project
+
+
+add link to a2oj profile, linkdIn link  
+https://a2oj.com/profile?Username=mdtareque  
+https://www.linkedin.com/in/mdtareque  
+
+
+twitter, fb, g+ on website
